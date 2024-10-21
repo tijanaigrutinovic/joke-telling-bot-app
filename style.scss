@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.test{
+    color: red;
+}
+.joke-body{
+    display: flex;
+    flex-direction: column;
+}
